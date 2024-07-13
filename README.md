@@ -2,21 +2,21 @@
 
 👨‍💻🚀 Career Transitioning Aspiring Web Developer 🚀👨‍💻
 
-🎓 With a degree in Administration, I bring a solid background in management acquired at leading financial institutions like Itaú and Bradesco. However, my passion for technology and desire to evolve have driven me to pursue a career transition into the realm of programming.
+🎓 With a degree in Administration, I bring a solid background in management acquired at leading financial institutions like Itaú and Bradesco. However, my passion for technology and desire to evolve has driven me to pursue a career transition into the realm of programming.
 
 💻 Currently, I am focused on honing my programming skills, with a strong command of Javascript, HTML, CSS, and Python. Additionally, I am proficient in tools such as Git, GitHub, Linux, and Kali Linux.
 
-🧠 Endowed with excellent interpersonal skills and a keen critical thinking mindset, I am an effective communicator and an engaged team player. I excel in adapting quickly to changing situations and environments, ensuring consistent performance across diverse contexts.
+🧠 Endowed with excellent interpersonal skills and a keen critical-thinking mindset, I am an effective communicator and an engaged team player. I excel in adapting quickly to changing situations and environments, ensuring consistent performance across diverse contexts.
 
 📜 Certified by FreeCodeCamp in Responsive Web Design and by Harvard CS50, I am committed to continuous learning and expanding my knowledge in the field of web development.
 
 🎯 My goal is to become an outstanding Web Developer, contributing to innovative and challenging projects. I am open to opportunities for learning and collaboration in an environment that values creativity, problem-solving, and teamwork.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://renatoguedes-dev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://renatoguedes.me/)
 
 ## Feel free to get in touch with me
 
-<a href="https://www.linkedin.com/in/renato-guedes-7a7aba116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renato-guedes-exe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/-Instagram-%23FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/renato.guedess/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge)](https://www.dio.me/users/renatomoraisguedes)
 <br>
